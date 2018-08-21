@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katharine Abbott</title>
-    <link>http://example.com/</link>
+    <link>http://katharine.io/</link>
     <description>Recent content on Katharine Abbott</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://katharine.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.com/about/</link>
+      <link>http://katharine.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/about/</guid>
+      <guid>http://katharine.io/about/</guid>
       <description>HTML | CSS | JavaScript   Katharine Abbott is a new front end developer looking to build out her portfolio. If you need help creating the perfect user experience on a budget, please reach out to contact@katharine.io</description>
     </item>
     
